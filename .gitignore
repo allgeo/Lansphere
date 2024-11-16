@@ -1,2 +1,5 @@
 .DS_Store
 .LSOverride
+
+// sync local changes to git
+sync-theme.sh

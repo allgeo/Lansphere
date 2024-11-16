@@ -11,7 +11,7 @@ Lansphere is currently a **work-in-progress** as I fine tune the theme settings 
 
 ## 🛠 Installation & Usage (for now)
 
-Download and place `Lansphere.json` file in the following directory on your system,
+Download and place `lansphere.json` file in the following directory on your system,
 ```bash
 ~/.config/zed/themes
 ```
