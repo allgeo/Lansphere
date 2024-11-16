@@ -1,17 +1,17 @@
 # Lansphere Theme for Zed Editor
 
-Lansphere is a custom theme designed for the [Zed Editor](https://zed.dev), inspired by:
+Lansphere is a custom theme designed for the [Zed Editor](https://zed.dev), inspired by,
 
 - **Anysphere** theme (deafult Cursor theme)
-- **Adwaita Dark** theme.
+- **Adwaita Dark** theme
 
 ## 🚧 Ongoing Progress
 
-Lansphere is currently a **work-in-progress** as I fine-tune the theme settings on a daily basis.
+Lansphere is currently a **work-in-progress** as I fine tune the theme settings on a daily basis
 
 ## 🛠 Installation & Usage (for now)
 
-- download and place the theme in the following directory on your system:
+Download and place `Lansphere.json` file in the following directory on your system,
 ```bash
 ~/.config/zed/themes
 ```
